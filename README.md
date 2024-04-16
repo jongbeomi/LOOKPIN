@@ -7,7 +7,6 @@
 </p>
 
 ## 프로젝트 소개
-LookPin
 <p align="justify">
 프로젝트 개요/동기
 </p>
@@ -20,17 +19,13 @@ Spring, MySql를 활용해 서버 클라이언트간의 상호작용 방식에 �
 
 이 프로젝트를 통해 기존 웹 페이지를 분석하고 재구성하는 과정을 통해 웹 개발에 대한 경험 및 통찰력을 쌓을 것입니다.
 
-<p align="center">
-GIF Images
-</p>
-
 <br>
 
 ## 기술 스택
 
-| JavaScript | TypeScript |  React   |  Node   |
+| HTML / CSS | JavaScript |  Spring   |  MySQL   |
 | :--------: | :--------: | :------: | :-----: |
-|   ![js]    |   ![ts]    | ![react] | ![node] |
+|   ![HTML]  |   ![js]    | ![spring] | ![mysql] |
 
 <br>
 
