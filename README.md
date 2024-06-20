@@ -1,4 +1,5 @@
-# LookPin 웹 사이트 모방
+# LookPin 클론코딩
+
 <p align="center">
   <br>
   <img src="./images/common/logo-sample.jpeg">
